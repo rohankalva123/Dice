@@ -5,6 +5,7 @@ Dice Rolling Game is a simple Flutter app that simulates rolling dice for two pl
 
 ## Demo
 https://github.com/rohankalva123/Dice/blob/2fb294dd287bda25dcf557f911638e87cffc4378/dice1.png
+https://github.com/rohankalva123/Dice/blob/20b5d51f544336091e599a8f340fe9142bfc360f/dice2.png
 
 
 Click the above image to view UI of the Dice Rolling Game app.
